@@ -17,5 +17,5 @@
 5.  press c to clear console
 6.  press q to quit
 
-##### Previously parent component was index.js and now it is main.js
+##### Previously parent component was index.js and now it is main.jsx
 
